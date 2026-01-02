@@ -1,4 +1,4 @@
-# PRG101-lab10
+# PRG101-Lab10
 ### Submission Details
 
 In this lab, you will work on a complete example of classes implementing inheritance. Write the scripts in Github Codespaces. Take screenshots at all logical steps and name your screenshots as instructed.
@@ -113,3 +113,4 @@ Polymorphism is a very useful concept in OOP that results into compact code with
     - lab10c_displayinfo.png
     - lab10c_tester_output.png
     - lab10d.png
+
